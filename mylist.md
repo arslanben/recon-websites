@@ -34,3 +34,5 @@
 - [OnWorks](https://www.onworks.net/tr/os-distributions/debian-based/free-kali-linux-online) online kali linux machine (also offers many extra machines like windows).
 - [Academo](https://academo.org/demos/spectrum-analyzer/) a site that does specturm analysis analyzes the audio file.
 - [Futureboy](https://futureboy.us/stegano/decinput.html) stenagoraphic analysis, revealing the text hidden in the picture.
+- [URL-Scan](https://urlscan.io/) a URL scannerthat provides URL control
+- [Proxy-Check](https://proxycheck.io/) a service that allows you to determine whether an IP address is malicious and/or being used for any activity such as proxy, VPN, tor service, etc.
