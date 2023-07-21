@@ -36,3 +36,5 @@
 - [Futureboy](https://futureboy.us/stegano/decinput.html) stenagoraphic analysis, revealing the text hidden in the picture.
 - [URL-Scan](https://urlscan.io/) a URL scannerthat provides URL control
 - [Proxy-Check](https://proxycheck.io/) a service that allows you to determine whether an IP address is malicious and/or being used for any activity such as proxy, VPN, tor service, etc.
+- [Web-Check](https://web-check.as93.net/) an OSINT vehicle with 20 vehicles in it works fast.
+- [Link-Shield](https://linkshieldapi.com/) a site where you can scan for risky links.
