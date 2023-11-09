@@ -1,4 +1,5 @@
 ## Start
+
 - [OSINT-Framework](https://osintframework.com/) available for any kind of information
 - [Have-i-been-pwned](https://haveibeenpwned.com/) if you think your email or phone number has been leaked, it can be used to check this.
 - [Builtwith](https://builtwith.com/) can be used to check if you are curious about which technologies the target website uses.
@@ -38,3 +39,8 @@
 - [Proxy-Check](https://proxycheck.io/) a service that allows you to determine whether an IP address is malicious and/or being used for any activity such as proxy, VPN, tor service, etc.
 - [Web-Check](https://web-check.as93.net/) an OSINT vehicle with 20 vehicles in it works fast.
 - [Link-Shield](https://linkshieldapi.com/) a site where you can scan for risky links.
+- [Whatfontis](https://www.whatfontis.com/) to find a font from a picture. It can be used in CTFs.
+- [Imei-Info](https://www.imei.info/) IMEI can be queried and information can be obtained. It can be used in CTFs.
+- [Dream-Coder](https://dreamdecoder.me/chat) can be used in URL decode. It can be used in CTFs.
+- [SOC-Radar](https://socradar.io/labs/) can be used to learn about anything.
+- [Intelx](https://intelx.io/) search for ip-mail etc. in leaked information.
