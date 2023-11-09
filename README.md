@@ -1,7 +1,5 @@
 # recon-websites
 
-## from mylist.md
-
 # A list of websites you can use for CTFs, security and many other things. 
 
 - [OSINT-Framework](https://osintframework.com/) available for any kind of information
