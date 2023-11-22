@@ -46,3 +46,4 @@
 - [Dream-Coder](https://dreamdecoder.me/chat) can be used in URL decode. It can be used in CTFs.
 - [SOC-Radar](https://socradar.io/labs/) can be used to learn about anything.
 - [Intelx](https://intelx.io/) search for ip-mail etc. in leaked information.
+- [YopMail](https://yopmail.com/) fast, secure email service.(ideal for single use.)
