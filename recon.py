@@ -52,7 +52,16 @@ websites = {
     "Dream-Coder -> can be used in URL decode. It can be used in CTFs.": "https://dreamdecoder.me/chat",
     "SOC-Radar -> can be used to learn about anything.": "https://socradar.io/labs/",
     "Intelx -> search for ip-mail etc. in leaked information.": "https://intelx.io/",
-    "YopMail -> fast, secure email service.(ideal for single use.)": "https://yopmail.com/"
+    "YopMail -> fast, secure email service.(ideal for single use.)": "https://yopmail.com/",
+    "RedditOSINT -> Website where you can analyze a Reddit user": "https://reddit-user-analyser.netlify.app/",
+    "HunterIO -> It can be used to find embedded emails on sites.": "https://hunter.io/",
+    "ICANNL -> Registration data lookup tool via domain": "https://lookup.icann.org/",
+    "WHOIS -> Website where you can make a whois query via domain information": "https://whois.domaintools.com/",
+    "CRT-SH -> Certificate Fingerprint check website": "https://crt.sh/",
+    "PeopleFinder -> person finding service": "https://www.peoplefinder.com/",
+    "PimEyes -> website where we can collect information through photographs": "https://pimeyes.com/",
+    "Censys -> A website where we can gather information about specific topics.": "https://search.censys.io/",
+    "Instant-Username -> username OSINT on social platforms": "https://instantusername.com/",
 }
 
 def clear_screen():
